@@ -14,5 +14,8 @@ public class Sample {
     public Sample() {
 
     }
+  public Sample() {
+
+    }
 
 }
